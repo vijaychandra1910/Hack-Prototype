@@ -15,7 +15,7 @@ An intelligent career guidance system built with Streamlit that helps users disc
 
 ## 🚀 Live Demo
 
-[Visit the live application]
+[Visit the live application](https://ai-career-skills-advisor.streamlit.app/)
 
 ## 🛠️ Technology Stack
 
